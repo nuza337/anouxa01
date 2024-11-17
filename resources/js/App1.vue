@@ -1,14 +1,13 @@
 <template>
-
-   <div>
-    <h1>hello</h1>
-   </div>
+<div>
+    <h1>hello my</h1>
+</div>
   
 </template>
 
 <script>
 export default {
-    name: 'anouxaApp',
+    name: 'anouxa01',
 
     data() {
         return {
@@ -28,5 +27,6 @@ export default {
 </script>
 
 <style iang="scss" scoped>
+
 
 </style>
